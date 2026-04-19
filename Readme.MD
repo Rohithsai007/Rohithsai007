@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Jayanthi Sai Rohith  <br>🚀 DevOps Engineer | 4 Years at Cognizant Technology Solutions  <br><br>- 🔧 Experienced in CI/CD automation with Jenkins, GitHub Actions, Docker, and Terraform  <br>- ☁️ Skilled in multi-cloud infrastructure management (AWS, Azure, DigitalOcean)  <br>- 🛠️ Advanced Kubernetes troubleshooting (deployments, services, image management)  <br>- 🐧 Strong Linux administration (user/group management, cron jobs, SELinux)  <br>- 💻 Full-stack development with React, Chakra UI, Node.js, and Mongoose  <br>- 📜 Python & Shell scripting for automation, log parsing, and orchestration  <br>
+👋 Hi, I'm Jayanthi Sai Rohith  <br>🚀 DevOps Engineer | 5.2 Years at Cognizant Technology Solutions  <br><br>- 🔧 Experienced in CI/CD automation with Jenkins, GitHub Actions, Docker, and Terraform  <br>- ☁️ Skilled in multi-cloud infrastructure management (AWS, Azure, DigitalOcean)  <br>- 🛠️ Advanced Kubernetes troubleshooting (deployments, services, image management)  <br>- 🐧 Strong Linux administration (user/group management, cron jobs, SELinux)  <br>- 💻 Full-stack development with React, Chakra UI, Node.js, and Mongoose  <br>- 📜 Python & Shell scripting for automation, log parsing, and orchestration  <br>
 
 
 ## 🌐 Socials:
